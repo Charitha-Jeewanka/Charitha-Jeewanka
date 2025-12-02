@@ -46,7 +46,7 @@ I am a **Software Engineer at Synopsys** and a **Master's student in Big Data An
 * Designed an **Agentic RAG framework** capable of autonomous reasoning and tool invocation.
 * Built a GenAI system for **SystemVerilog-to-VHDL** code translation with **80% accuracy**, reducing legacy migration time by 3 days.
 
-**Dialog Axiata P.L.C.** | *Senior Executive - Converged Charging DevOps*
+**Dialog Axiata P.L.C.** | *DevOps Engineer*
 * Managed **AWS EKS** infrastructure and automated CI/CD pipelines using Docker and Python.
 * Scaled microservices and implemented monitoring via the **ELK Stack**.
 
@@ -54,19 +54,19 @@ I am a **Software Engineer at Synopsys** and a **Master's student in Big Data An
 
 ## 💡 Featured Projects
 
-### 🤖 [Multi-Agent System (Synopsys AI Summit 2025)]
+### 🤖 Multi-Agent System (Synopsys AI Summit 2025)
 * **Tech:** LangGraph, LangSmith, OpenAI API, MCP Agents.
 * Built a research automation pipeline demonstrating agentic system design, including pattern-based task decomposition and supervisor orchestration.
 
-### 🏎️ [F1 Race Prediction Pipeline]
+### 🏎️ F1 Race Prediction Pipeline
 * **Tech:** Python, FastF1, MLflow, XGBoost, CatBoost.
 * Developed a data ingestion workflow to predict race podium outcomes using multi-season telemetry data.
 
-### 📊 [Realtime Web Traffic Analysis]
+### 📊 Realtime Web Traffic Analysis
 * **Tech:** AWS EKS, FastAPI, ClickHouse, Prometheus.
 * Deployed a microservices-based analytics platform with real-time event tracking and interactive dashboards.
 
-### 🏨 [Hotel Review Sentiment Analysis]
+### 🏨 Hotel Review Sentiment Analysis
 * **Tech:** Scikit-Learn, Word2Vec, Transformers.
 * NLP pipeline for sentiment classification and aspect-based clustering.
 
@@ -85,5 +85,3 @@ I am a **Software Engineer at Synopsys** and a **Master's student in Big Data An
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Charitha%20Jeewanka-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Charitha-Jeewanka)
 [![Email](https://img.shields.io/badge/Email-cjrathnayake24%40gmail.com-red?style=flat&logo=gmail)](mailto:cjrathnayake24@gmail.com)
-
-![Charitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charitha-Jeewanka&show_icons=true&theme=radical)
